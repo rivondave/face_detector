@@ -31,4 +31,4 @@ For better experience, perform the installation in a virtual environment
 
     $ pip install opencv-python
 
-Happy Detection
+Happy Detection, Testing pull request
